@@ -1,0 +1,10 @@
+training
+stepsize 10
+Number of samples taken in class 1 is: 1658
+Number of samples taken in class 2 is: 1372
+shellvariable: 0.0785
+shells: 2
+
+predict
+Number of samples taken in class 1 is: 1521
+Number of samples taken in class 2 is: 1388
